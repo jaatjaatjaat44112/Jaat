@@ -1,0 +1,6 @@
+{
+  "name": "फचे गैंग",
+  "description": "WhatsApp-style communication app in Hindi for फचे गैंग with online active members, real-time messaging, and status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

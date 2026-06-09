@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Speech Bubble shadow/outline representation -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,30 h 44 c 5.5,0 10,4.5 10,10 v 24 c 0,5.5 -4.5,10 -10,10 H 54 l -14,14 v -14 h -8 c -5.5,0 -10,-4.5 -10,-10 v -24 c 0,-5.5 4.5,-10 10,-10 z"/>
+    <!-- Intricate design overlay -->
+    <path
+        android:fillColor="#E2F9C3"
+        android:pathData="M 36,34 h 36 c 3.3,0 6,2.7 6,6 v 18 c 0,3.3 -2.7,6 -6,6 h -10 l -8,8 v -8 h -8 c -3.3,0 -6,-2.7 -6,-6 v -18 c 0,-3.3 2.7,-6 6,-6 z"/>
+    <!-- Lettering for Phache Gang -->
+    <path
+        android:fillColor="#075E54"
+        android:pathData="M 45,46 h 18 v 4 h -18 z M 45,52 h 14 v 4 h -14 z"/>
+</vector>
